@@ -1,2 +1,0 @@
-# minesweeeper
-Minesweeper
